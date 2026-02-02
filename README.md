@@ -5,7 +5,7 @@
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner">
+  <img src="banner.png" width="500" alt="Banner">
 </p>
 
 <br>
