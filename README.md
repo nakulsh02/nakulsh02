@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nakul</h1>
 <h3 align="center">Frontend Web Developer | UI & Interactive Web Enthusiast 🇮🇳</h3>
 
-<br><br>
+<br>
 
+<!-- BANNER IMAGE -->
 <p align="center">
-  <img src="code.gif" width="400" alt="Coding animation">
+  <img src="banner.png" width="100%" alt="Banner">
 </p>
 
 <br>
@@ -15,12 +16,25 @@
 
 ---
 
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
 ### 👤 Personal Information
 -  **Role:** Student & Frontend Web Developer  
 -  **Location:** India  
 -  **Focus Area:** Frontend Development & UI Design  
 -  **Interests:** Web animations, clean UI, real-world projects  
 -  **Mindset:** Learning by building & improving every day  
+
+</td>
+<td width="35%" align="center">
+
+<img src="code.gif" width="300" alt="Coding animation">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -47,6 +61,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,androidstudio,illustrator" />
 </p>
-
----
-
