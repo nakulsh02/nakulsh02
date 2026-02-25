@@ -5,7 +5,7 @@
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="banner.png" width="500" alt="Banner">
+  <img src="code.gif" width="500" alt="gif">
 </p>
 
 <br>
@@ -29,8 +29,6 @@
 
 </td>
 <td width="35%" align="center">
-
-<img src="code.gif" width="300" alt="Coding animation">
 
 </td>
 </tr>
