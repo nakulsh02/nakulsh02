@@ -46,7 +46,7 @@
 
 ### 🌐 Portfolio
 🔗 **All my projects:**  
-👉 https://nakulsh02.github.io/Portfolio_
+👉 https://nakulsh02.github.io/Portfolio_/
 
 ---
 
