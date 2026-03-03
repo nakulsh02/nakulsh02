@@ -18,7 +18,7 @@
 
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="100%" valign="top">
 
 ### 👤 Personal Information
 -  **Role:** Student & Frontend Web Developer  
