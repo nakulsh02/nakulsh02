@@ -76,14 +76,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nakulsh02&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
