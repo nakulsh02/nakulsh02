@@ -46,7 +46,7 @@
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://nakulsh02.github.io/Portfolio_/">
+  <a href="https://nfoliox.vercel.app/">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
